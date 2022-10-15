@@ -1,4 +1,4 @@
-## Hi! :raising_hand: I’m Bedford (_he/him/his_). I consider myself a software enthusiast :computer: with a particular passion for testing :mag_right: and game development :space_invader:. 
+## Hi! 🙋 I’m Bedford (he/him/his). I'm a software engineering leader 💻 with a particular passion for advancing the developer experience through growth and psychological safety 🌱. Outside of this, I enjoy expressing my creative side and keeping my tech skills relevant through game development 👾.
 
 #### In my day job, I lead Quality Assurance and testing teams toward innovative solutions for complex problems. In my spare time, I dabble in game development, experiment with one-off hobby development projects, and follow game jams. Diversity, equity, and inclusion :rainbow: are huge motivators for me, and I do my best to bring those into everything I do.
 
